@@ -5,6 +5,7 @@ Botting et al.(2017 review)'s comment on Du and Wang (2012) (Doushantuo spicules
 *Comments:*
 
 1 Need to be cautious when interpreting early spicular fossils.
+
 2 If Du and Wang (2012)'s materials are reliable, it is also a new finding that radiolarian occured in the Ediacaran
 
 [Joerg Maletz, Freie Universitaet Berlin 2017. The identification of putative Lower Cambrian Radiolaria](http://www.sciencedirect.com.sci-hub.io/science/article/pii/S0035159816300526)
