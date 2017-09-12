@@ -1,7 +1,7 @@
 ## Stem group sponges
 
 ### Reticulosans
-
+	
 - taxonomical difficulty
 
 - Several problems assigning reticulosans to crown-group hexactinellids:
@@ -22,7 +22,7 @@
 
 ### Protomonaxonids
 
-	> "Two major features of the protomonaxonids preclude a close relationship with any modern group."
+> "Two major features of the protomonaxonids preclude a close relationship with any modern group."
 
 	some incoporate hexactine-like spicules, Steiner et al. 1993, Botting et al. 2013
 
@@ -34,7 +34,7 @@
 
 ### Heteractinids
 
-	*Eiffelia* spicules contain a silica core surrounded by a calcitic layer, Botting and Butterfield 2005, Bengtson and Vinther 2006, Bengtson and Collins 2015
+*Eiffelia* spicules contain a silica core surrounded by a calcitic layer, Botting and Butterfield 2005, Bengtson and Vinther 2006, Bengtson and Collins 2015
 	
 	organic sheaths in hexactine form, Harvey 2010
 
