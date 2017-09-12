@@ -22,7 +22,7 @@
 
 ### Protomonaxonids
 
-	>Two major features of the protomonaxonids preclude a close relationship with any modern group.
+	> "Two major features of the protomonaxonids preclude a close relationship with any modern group."
 
 	some incoporate hexactine-like spicules, Steiner et al. 1993, Botting et al. 2013
 
@@ -40,9 +40,9 @@
 
 	*Calcihexactina*, hexactine preserved in calcite, e.g. Lindstroem 1979, Ding & Qian 1988, Brock &Copper 1993, Wrona 2004
 
-	>"Post-Cambrian heteractinids appear to have been dominantly or exclusively calcitic (e.g. Mehl & Reitner 1996)"
+	> "Post-Cambrian heteractinids appear to have been dominantly or exclusively calcitic (e.g. Mehl & Reitner 1996)"
 
-	>"The implication of *Eiffelia* and other anomalous heteractinid sponges is that purely calcitic spicules are a derived condition in which the siliceous component of the spicules in the ancestral lineage has been secondarily lost."
+	> "The implication of *Eiffelia* and other anomalous heteractinid sponges is that purely calcitic spicules are a derived condition in which the siliceous component of the spicules in the ancestral lineage has been secondarily lost."
 
 
 	
