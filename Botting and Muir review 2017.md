@@ -6,7 +6,7 @@
 
 - Several problems assigning reticulosans to crown-group hexactinellids:
 
-	>"hexactines are widely distributed amongst early sponges"
+   >"hexactines are widely distributed amongst early sponges"
 
    1. heteractinids, *Effelia globosa*, Botting & Butterfield 2005
 	
